@@ -1,0 +1,12 @@
+diff a/src/main.java b/src/main.java	(rejected hunks)
+@@ -1,10 +0,0 @@
+-
+-public class main {
+-
+-	public static void main(String[] args) {
+-
+-		System.out.println("Hello World!");
+-		
+-	}
+-
+-}
